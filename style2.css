@@ -4,24 +4,11 @@ background-image: url("pic3.jpg");
 background-size:cover;
 font-family: 'Signika Negative', sans-serif;
 height: 100%;
+margin: 0%;
+width: 100%;
 
 }
-#login-background
-{
-    background-image: url("pic1.webp");
-    float: none;
-    width: 80%;
-    border-radius: 15px;
-    box-shadow: 5px 10px 10px 5px;
-}
-#login
-{
-    width: 50%;
-    background-color: white;
-    padding: 5px;
-    
-    
-}
+
 span{
     font-family: 'Signika Negative', sans-serif;
     font-size: 25px;
